@@ -1,0 +1,14 @@
+{
+  "name": "advanced-javascript-functions",
+  "version": "1.0.0",
+  "description": "Advanced JS string, array practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Antonio Lolić",
+  "license": "ISC"
+}
